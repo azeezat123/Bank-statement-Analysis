@@ -1,4 +1,4 @@
-# Bank-statement-Analysis -Data Cleaning
+# Bank statement Analysis -Data Cleaning
 
 ## Introduction
 Welcome to the data cleaning documentation for a bank statement dataset from June 2021 to January 2022. I was provided with the bank statement To gain insights into the spending habits during the specified period. The dataset includes transactional data along with other relevant details.
