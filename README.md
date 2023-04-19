@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to the data cleaning documentation for a bank statement dataset from June 2021 to January 2022. I was provided with the bank statement To gain insights into the spending habits during the specified period. The dataset includes transactional data along with other relevant details.
-This documentation aims to provide a clear and structured overview of the data cleaning process undertaken to prepare the dataset for analysis. 
+\n This documentation aims to provide a clear and structured overview of the data cleaning process undertaken to prepare the dataset for analysis. 
 
 ## Dataset Description
 The Bank Statement dataset contains 1396 rows and 8 columns, with data ranging from **June 1st, 2021 to January 9th, 2022**. The columns in the dataset are defined as follows:
